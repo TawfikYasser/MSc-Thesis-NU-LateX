@@ -1,2 +1,2 @@
-# MSc-Thesis-NU-LateX
-MSc Thesis Template - NU Library
+# NU-Thesis-Template
+Nile University Thesis Template
